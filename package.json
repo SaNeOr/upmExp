@@ -1,0 +1,11 @@
+{
+	"name": "com.tools.odin",
+	"displayName":"odin",
+	"version": "1.0.0",
+    "unity": "2019.2",
+    "keywords": ["odin", "inspector", "editor window"],
+    "category": "editor",
+	"description": "test test",
+    "dependencies": {
+    }
+}
